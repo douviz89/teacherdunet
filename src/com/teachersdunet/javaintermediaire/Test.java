@@ -8,7 +8,7 @@ public class Test {
 		System.out.println(Temp.a);
 		Temp.a = 6;
 		System.out.println(Temp.a);
-		
+		System.out.println("hello from gitHub");
 	}	
 
 }	
